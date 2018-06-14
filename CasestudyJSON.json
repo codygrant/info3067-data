@@ -1,0 +1,168 @@
+[
+	{
+		"ID": "60D",
+		"BRAND": "Canon",
+		"PRODUCTNAME": "60D",
+		"MSRP": 599.99,
+		"COSTPRICE": 270.00,
+		"GRAPHICNAME": "Canon 60D",
+		"QTYONHAND": 6,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "With the new EOS 60D DSLR, Canon gives the photo enthusiast a powerful tool fostering creativity, with better image quality, more advanced features and automatic and in-camera technologies for ease-of-use. It features an improved APS-C sized 18.0 Megapixel CMOS sensor for tremendous images, a new DIGIC 4 Image Processor for finer detail and excellent color reproduction, and improved ISO capabilities from 100 - 6400 (expandable to 12800) for uncompromised shooting even in the dimmest situations. The new Multi-control Dial enables users to conveniently operate menus and enter settings with a simple touch. The EOS 60D also features an EOS first: A Vari-angle 3.0-inch Clear View LCD (1,040,000 dots) monitor for easy low- or high-angle viewing. An improved viewfinder, a number of new in-camera creative options and filters, plus HDMI output for viewing images on an HDTV all make the EOS 60D invaluable for the evolving photographer. With continuously curved surfaces, user-friendliness and exuding solidity and refinement, the EOS 60D is true digital inspiration!"
+	},
+	{
+		"ID": "1D_X",
+		"BRAND": "Canon",
+		"PRODUCTNAME": "EOS-1D X",
+		"MSRP": 5299.99,
+		"COSTPRICE": 3000.00,
+		"GRAPHICNAME": "Canon EOS-1D X",
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 2,
+		"DESCRIPTION": "The choice of professionals in fields ranging from extreme sports to wedding photographers, the EOS-1D X DSLR camera is incomparable in speed, ruggedness and precision. And it only gets better. Responding to user input, the new Firmware Update Version 2.0.3 adds enhancements that provide improved AF performance and more control of exposure and customization, helping to ensure EOS-1D X users have an ideal tool to do what they do best: capturing those golden opportunities, wherever and whenever they happen."
+	},
+	{
+		"ID": "5DS_R",
+		"BRAND": "Canon",
+		"PRODUCTNAME": "EOS 5DS R",
+		"MSRP": 3699.99,
+		"COSTPRICE": 2000.00,
+		"GRAPHICNAME": "Canon EOS 5DS R",
+		"QTYONHAND": 4,
+		"QTYONBACKORDER": 1,
+		"DESCRIPTION": "With all the features and capabilities of the EOS 5DS, the EOS 5DS R camera offers the potential for even greater sharpness and fine detail for specialized situations. It features the same Canon designed and manufactured 50.6 Megapixel sensor, with the low-pass filter* (LPF) effect cancelled to provide even more fine edge sharpness and detail for critical subjects such as detailed landscapes, and other situations where getting the sharpest subject detail is a priority."
+	},
+	{
+		"ID": "6D_Mark_II",
+		"BRAND": "Canon",
+		"PRODUCTNAME": "EOS 6D Mark II",
+		"MSRP": 1599.99,
+		"COSTPRICE": 800.00,
+		"GRAPHICNAME": "Canon EOS 6D Mark II",
+		"QTYONHAND": 14,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "For superb performance on the go, the Canon EOS 6D Mark II camera puts full-frame performance into a compact, fully featured DSLR. Its 26.2 Megapixel CMOS sensor and DIGIC 7 Image Processor help deliver amazing results even at expanded ISO settings, making it great for challenging low-light situations as well as landscape, portrait and event photography. The EOS 6D Mark II also features an impressive optical viewfinder with 45 all cross-type AF points*, fast and accurate Dual Pixel CMOS AF and a Vari-angle Touch Screen LCD for Live View operation which helps create unique angles. With the EOS 6D Mark IIs speed to capture action and the versatility to create phenomenal photographs and Full HD 60p videos in numerous environments and lighting situations, the camera offers creative content makers a winning combination of advanced features in a portable package thats as fun as it is powerful."
+	},
+	{
+		"ID": "M5_EF-M",
+		"BRAND": "Canon",
+		"PRODUCTNAME": "M5 EF-M",
+		"MSRP": 1149.99,
+		"COSTPRICE": 650.00,
+		"GRAPHICNAME": "Canon M5 EF-M",
+		"QTYONHAND": 11,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Compact. Powerful. Fast. The EOS M5 features the brilliant image quality you can expect from the EOS line of cameras, in a lightweight, portable design with fast autofocus and processing to help make sure you dont miss that unforgettable shot. Whether you are navigating the tight alleys of an old European city or enjoying the view after a strenuous hike, the EOS M5 will let you take advantage of every photo opportunity, more conveniently. Inside its rugged frame is a 24.2 Megapixel CMOS (APS-C) sensor thats able to capture sharp, high-resolution images even in low-light situations. "
+	},
+	{
+		"ID": "D5",
+		"BRAND": "Nikon",
+		"PRODUCTNAME": "D5",
+		"MSRP": 8499.99,
+		"COSTPRICE": 5000.00,
+		"GRAPHICNAME": "Nikon D5",
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 1,
+		"DESCRIPTION": "What determines when Nikon releases a full-frame flagship camera? When technological innovation demands it. Introducing the D5, an FX-format DSLR that makes the impossible possible. Huge advancements in sensor design, autofocus, metering and image processing result in thrilling new capabilities—low light shooting all the way to ISO 102,400 (expandable to an unheard of ISO 3,280,000), precise AF detection and tracking across that entire ISO range, regardless of your subjects speed or direction changes, blazing fast 12 fps continuous shooting, 4K UHD video and, of course, image quality that captures the hearts and minds of your viewers."
+	},
+	{
+		"ID": "D850",
+		"BRAND": "Nikon",
+		"PRODUCTNAME": "D850",
+		"MSRP": 4399.99,
+		"COSTPRICE": 2100.00,
+		"GRAPHICNAME": "Nikon D850",
+		"QTYONHAND": 6,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "When Nikon introduced the D800 and D800E, it set a new benchmark for DSLR image quality and super high resolution photography that approached medium format. Now, five years later, Nikon proudly introduces the next evolution in high resolution DSLRs, a camera that allows photographers to capture fast action in 45.7 megapixels of brilliant resolution."
+	},
+	{
+		"ID": "D610",
+		"BRAND": "Nikon",
+		"PRODUCTNAME": "D610",
+		"MSRP": 1999.99,
+		"COSTPRICE": 800.00,
+		"GRAPHICNAME": "Nikon D750",
+		"QTYONHAND": 17,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "The power of a pro-level Nikon FX-format camera—dazzling full-frame images, broadcast-quality 1080p video at your fingertips, superior low-light performance, faster frame rate up to 6 frames-per-second (fps), tack sharp autofocus with 39 focus points, built-in flash with Commander Mode, wireless photo sharing and much more—is attainable in a compact, lightweight full-frame HD-SLR body. A new continuous quiet mode lets you capture a sequence of shots without the noise associated with the raising and lowering of the D-SLRs mirror."
+	},
+	{
+		"ID": "D750",
+		"BRAND": "Nikon",
+		"PRODUCTNAME": "D750",
+		"MSRP": 2549.99,
+		"COSTPRICE": 1200.00,
+		"GRAPHICNAME": "Nikon D750",
+		"QTYONHAND": 12,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "For those who find inspiration everywhere, who switch between stills and video without missing a beat, who want the look only a full-frame D-SLR can achieve and who love sharing their shots, the D750 is the tool to unleash your artistry. With features inspired by D4S and D810, the D750 brings dazzling image quality, cinematic video capabilities and pro-inspired handling in a nimble design with a tilting Vari-angle LCD and built-in Wi-Fi connectivity."
+	},
+	{
+		"ID": "D3400",
+		"BRAND": "Nikon",
+		"PRODUCTNAME": "D3400",
+		"MSRP": 519.99,
+		"COSTPRICE": 200.00,
+		"GRAPHICNAME": "Nikon D3400",
+		"QTYONHAND": 14,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Before the D3400, you chose your smartphone camera for convenience. Zooming was clumsy. Shooting in low light was nearly impossible. Capturing fast action was a game of luck. But after the D3400, you will see that you were compromising image quality. That some of the greatest photos happen when the light is low. That fast action can be frozen in perfect clarity."
+	},
+	{
+		"ID": "a9",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "a9",
+		"MSRP": 5699.99,
+		"COSTPRICE": 4300.00,
+		"GRAPHICNAME": "Sony a9 35mm Full Frame",
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 2,
+		"DESCRIPTION": "α9 liberates you from the limits of conventional SLRs that rely on mechanical systems. First to use high-speed stacked design, its 24.2-megapixel full-frame image sensor temporarily stores large-volume data in the integral memory for overall 20 times faster readout speed. The combination of CMOS sensor and enhanced BIONZ X image-processing engine brings you true digital freedom."
+	},
+	{
+		"ID": "a7R",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "a7R",
+		"MSRP": 3999.99,
+		"COSTPRICE": 2100.00,
+		"GRAPHICNAME": "Sony a7R III 35mm Full Frame",
+		"QTYONHAND": 8,
+		"QTYONBACKORDER": 1,
+		"DESCRIPTION": "Welcome to a new world of imaging with resolution, sensitivity, dynamic range, processing speed, and shooting response further enhanced. The α7R III packs pro-style operability into a strong, compact body to give you greater flexibility to take brilliant shots in any situation. With such high power, precision, and potential at your command, you can capture once-in-a-lifetime experiences."
+	},
+	{
+		"ID": "a7S",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "a7S",
+		"MSRP": 2299.99,
+		"COSTPRICE": 1050.00,
+		"GRAPHICNAME": "Sony a7S E-mount",
+		"QTYONHAND": 7,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Marvel at the world’s first full-frame sensor capable of full pixel readout on 4K video3—impressively precision-packed in the world’s smallest interchangeable lens digital camera."
+	},
+	{
+		"ID": "RX10_III",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "RX10 III",
+		"MSRP": 1799.99,
+		"COSTPRICE": 850.00,
+		"GRAPHICNAME": "Sony RX10 III",
+		"QTYONHAND": 14,
+		"QTYONBACKORDER": 3,
+		"DESCRIPTION": "Together, a large-aperture 24–600 mm F2.4-4 optical 25x zoom lens and 1.0-type stacked CMOS sensor make subjects stand out beautifully, even when shot in extreme close-up. Extended zoom, blazing speed and complete silence make for a new shooting experience."
+	},
+	{
+		"ID": "RX100_V",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "RX100 V",
+		"MSRP": 1199.99,
+		"COSTPRICE": 640.00,
+		"GRAPHICNAME": "Sony RX100 V",
+		"QTYONHAND": 18,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Meet the RX100 V — the ultimate compact for capturing movies and stills in captivating detail. This camera inherits the RX100 series renowned 1.0-type image sensor, and advances with blazing-fast 0.05-second autofocus, 315 AF points for the worlds most comprehensive phase-detection coverage of its kind, continuous shooting up to 24 fps with AF/ AE tracking, as well as outstanding 4K movie capabilities."
+	},
+
+]
